@@ -1,0 +1,110 @@
+#title{
+    text-align: center;
+    font-family: serif;
+    font-size: 40px;
+    color: #434040;
+}
+#date{
+    text-align: center;
+    font-family: serif;
+    border-style: solid;
+    border-right: 20px;
+    border-left: 20px;
+    line-height: 35px;   
+    color: #434040;
+}
+.grid{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 10px;
+    padding: 10px;
+    color: #434040;
+}
+#head1{
+    font-family: serif;
+    font-weight: lighter;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    height: 0px;
+    text-indent: 10px;
+}
+#name{
+    padding-top: 2px;
+    text-indent: 10px;
+
+}
+#para1{
+    border-style: solid;
+    border-color: #434040;
+    border-top: 1px;
+    margin: 1px;
+    padding: 8px;
+   border-bottom: 1px;
+
+}
+#para2{
+    margin: 1px;
+    padding: 1px;
+}
+.box3{
+    grid-column-start: 1;
+    grid-column-end: 4;
+}
+#quotes{
+    text-align: center;
+    font-family: serif;
+    color: #434040;
+    font-weight: bold;
+    font-size: 35px;
+}
+.box4{
+    color: #434040;
+}
+#head2{
+    font-family: serif;
+}
+.box5{
+    color: #434040;
+    border-style: solid;
+    border-color: #434040;
+    border-top: 1px;
+    border-bottom: 1px;
+}
+#para3{
+    margin: 2px;
+    padding: 5px;
+}
+#para4{
+    margin: 2px;
+    padding: 5px;
+}
+#head3{
+    font-family: serif;
+    margin:6px;
+    padding:7px;
+}
+#para5{
+    margin: 2px;
+    padding: 5px;
+    color: #434040;
+    
+}
+figcaption{
+    color: #434040;
+    font: 1em sans-serif;
+    font-weight: bold;
+    margin-left: 80px;
+}
+#para6{
+    color: #434040;
+    margin-left: 360px;
+    margin-top:-240px;
+
+}
+#para7{
+    margin-left: 0px;
+    margin-top:125px;
+}
+#head4{
+    margin-left: 8px;
+}
